@@ -12,12 +12,6 @@
 				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/Button/B_Anim/Button_Anim_PhysicsAsset.uasset",
 				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/Button/B_Anim/Button_Anim_Anim.uasset",
 				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/Button/B_Anim/Button_Anim.uasset",
-				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/Button_Anim_Anim.uasset",
-				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/Button_Anim_PhysicsAsset.uasset",
-				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/Button_Anim_Skeleton.uasset",
-				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/M_Buttom.uasset",
-				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/M_Button_Metal.uasset",
-				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/M_Button_Plastic.uasset",
 				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/Lvl/Chair/Chair.uasset",
 				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/Lvl/Chair/Material.uasset",
 				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/Lvl/Chair/Material_001.uasset",
@@ -30,7 +24,14 @@
 				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Blueprints/BP_Cube.uasset",
 				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
 				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Blueprints/BP_DestroyableCube.uasset",
-				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Orange.uasset"
+				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Orange.uasset",
+				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Levels/Tutor1.umap",
+				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/Button_Anim_Anim.uasset",
+				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/Button_Anim_PhysicsAsset.uasset",
+				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/Button_Anim_Skeleton.uasset",
+				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/M_Buttom.uasset",
+				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/M_Button_Metal.uasset",
+				"D:/UE5project/Home_Jam/crimenoirbloodgodflexfatwinterdrunkwizardchristsdotcom/BetonRoom/Content/Mashes/B_Anim/M_Button_Plastic.uasset"
 			]
 		}
 	]
